@@ -41,3 +41,6 @@ The application was successfully deployed and tested on AWS EC2. The AWS resourc
 Author
 
 Cloud Computing Student
+
+## Deployment Proof
+![Deployment Screenshot](screenshots/IMG-20261014-WA0024.jpg)
